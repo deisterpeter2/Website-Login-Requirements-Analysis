@@ -97,7 +97,7 @@ This project demonstrates how Business Analysts translate business needs into so
 
 ---
 
-## Documents
+## Documents Created
 
 ### Business Requirements Document
 
