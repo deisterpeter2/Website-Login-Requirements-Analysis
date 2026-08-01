@@ -121,11 +121,11 @@ website-login-email-capture/
 ├── README.md
 │
 ├── documentation/
-│   ├── Login_Screen_Business_Requirements.docx
-│   ├── Login_Screen_User_Stories.docx
-│   ├── Login_Screen_Use_Cases.xlsx
-│   ├── Login_Screen_Process_Flow.docx
-│   └── Login_Screen_Wireframes.docx
+│   ├── Business-Requirements.docx
+│   ├── User-Stories.docx
+│   ├── Use-Cases.xlsx
+│   ├── Process-Flow.docx
+│   └── Wireframes.docx
 
 ```
 
