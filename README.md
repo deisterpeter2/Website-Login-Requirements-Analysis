@@ -134,6 +134,18 @@ Illustrates the end-to-end workflow from user access through successful email su
 
 Mockups communicate the intended layout and functionality of the login page before development begins.
 
+**User Registration**
+
+![registration](images/registration.jpg)
+
+**Login**
+
+![login](images/login.jpg)
+
+**Password Reset**
+
+![password-reset](images/password-reset.jpg)
+
 ---
 
 ## Skills Demonstrated
@@ -154,7 +166,7 @@ Mockups communicate the intended layout and functionality of the login page befo
 
 ## Repository Contents
 
-```
+---
 website-login-email-capture/
 │
 ├── README.md
@@ -167,7 +179,10 @@ website-login-email-capture/
 │   └── Wireframes.docx
 │
 ├── images/
+│   ├── login.jpg
+│   ├── password-reset.jpg
 │   ├── process-flow.jpg
+│   ├── registration.jpg
 
 ---
 
