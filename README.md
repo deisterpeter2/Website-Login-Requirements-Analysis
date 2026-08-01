@@ -129,8 +129,6 @@ website-login-email-capture/
 
 ```
 
----
-
 ## Documentation Included
 
 ### Business Requirements Document
@@ -165,7 +163,7 @@ Illustrates the end-to-end workflow from user access through successful email su
 
 ### Wireframes
 
-Low-fidelity mockups communicate the intended layout and functionality of the login page before development begins.
+Mockups communicate the intended layout and functionality of the login page before development begins.
 
 ---
 
