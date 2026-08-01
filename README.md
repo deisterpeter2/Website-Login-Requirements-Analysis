@@ -95,7 +95,7 @@ This project demonstrates how Business Analysts translate business needs into so
 - How should the system respond after successful login?
 - What requirements must developers implement?
 
-```
+---
 
 ## Documents
 
