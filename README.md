@@ -126,6 +126,9 @@ website-login-email-capture/
 │   ├── Use-Cases.xlsx
 │   ├── Process-Flow.docx
 │   └── Wireframes.docx
+│
+├── images/
+│   ├── process-flow.jpg
 
 ```
 
@@ -158,6 +161,8 @@ Describes user interactions with the application, including:
 ### Process Flow
 
 Illustrates the end-to-end workflow from user access through successful email submission.
+
+![Process-Flow](images/process-flow.jpg)
 
 ---
 
