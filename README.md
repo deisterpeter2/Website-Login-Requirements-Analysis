@@ -84,22 +84,6 @@ Develop low-fidelity interface mockups to communicate the intended user experien
 
 ---
 
-## Skills Demonstrated
-
-- Business Analysis
-- Requirements Gathering
-- Business Requirements Documentation (BRD)
-- Functional Requirements
-- User Story Development
-- Acceptance Criteria
-- Use Case Modeling
-- Process Flow Modeling
-- Wireframing
-- Stakeholder Communication
-- Business Process Analysis
-
----
-
 ## Business Questions Addressed
 
 This project demonstrates how Business Analysts translate business needs into software requirements by answering questions such as:
@@ -111,28 +95,9 @@ This project demonstrates how Business Analysts translate business needs into so
 - How should the system respond after successful login?
 - What requirements must developers implement?
 
----
-
-## Repository Contents
-
-```
-website-login-email-capture/
-│
-├── README.md
-│
-├── documentation/
-│   ├── Business-Requirements.docx
-│   ├── User-Stories.docx
-│   ├── Use-Cases.xlsx
-│   ├── Process-Flow.docx
-│   └── Wireframes.docx
-│
-├── images/
-│   ├── process-flow.jpg
-
 ```
 
-## Documentation Included
+## Documents
 
 ### Business Requirements Document
 
@@ -143,7 +108,6 @@ Defines the business objectives, project scope, functional requirements, assumpt
 ### User Stories
 
 Documents user needs using Agile user story format along with acceptance criteria.
-
 
 ---
 
@@ -169,6 +133,41 @@ Illustrates the end-to-end workflow from user access through successful email su
 ### Wireframes
 
 Mockups communicate the intended layout and functionality of the login page before development begins.
+
+---
+
+## Skills Demonstrated
+
+- Business Analysis
+- Requirements Gathering
+- Business Requirements Documentation (BRD)
+- Functional Requirements
+- User Story Development
+- Acceptance Criteria
+- Use Case Modeling
+- Process Flow Modeling
+- Wireframing
+- Stakeholder Communication
+- Business Process Analysis
+
+---
+
+## Repository Contents
+
+```
+website-login-email-capture/
+│
+├── README.md
+│
+├── documentation/
+│   ├── Business-Requirements.docx
+│   ├── User-Stories.docx
+│   ├── Use-Cases.xlsx
+│   ├── Process-Flow.docx
+│   └── Wireframes.docx
+│
+├── images/
+│   ├── process-flow.jpg
 
 ---
 
