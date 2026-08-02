@@ -185,6 +185,7 @@ website-login-email-capture/
 │   ├── registration.jpg
 
 ```
+---
 
 ## Business Value
 
