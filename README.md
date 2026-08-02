@@ -166,7 +166,7 @@ Mockups communicate the intended layout and functionality of the login page befo
 
 ## Repository Contents
 
----
+```
 website-login-email-capture/
 │
 ├── README.md
@@ -184,7 +184,7 @@ website-login-email-capture/
 │   ├── process-flow.jpg
 │   ├── registration.jpg
 
----
+```
 
 ## Business Value
 
